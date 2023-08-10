@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Pansiyon_uygulaması.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="No" Type="System.String" Scope="User">
+      <Value Profile="(Default)">No</Value>
+    </Setting>
+    <Setting Name="Adı" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Adı</Value>
+    </Setting>
+    <Setting Name="Soyadı" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Soyadı</Value>
+    </Setting>
+    <Setting Name="Cinsiyet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Cinsiyet</Value>
+    </Setting>
+    <Setting Name="Telefon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Telefon</Value>
+    </Setting>
+    <Setting Name="Mail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Mail</Value>
+    </Setting>
+    <Setting Name="TC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TC</Value>
+    </Setting>
+    <Setting Name="OdaNo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OdaNo</Value>
+    </Setting>
+    <Setting Name="Ucret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ucret</Value>
+    </Setting>
+    <Setting Name="GirisTarih" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GirisTarih</Value>
+    </Setting>
+    <Setting Name="CikisTarih" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CikisTarih</Value>
+    </Setting>
+    <Setting Name="Gıdalar" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gıdalar</Value>
+    </Setting>
+    <Setting Name="Icecekler" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Icecek</Value>
+    </Setting>
+    <Setting Name="Atistirmaliklar" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Cerezler</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
